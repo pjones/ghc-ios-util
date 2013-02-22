@@ -18,11 +18,11 @@ Assuming this repository is in `~/ghc-ios-util`:
 
   3. Update all "sub" repositories to the correct versions:
 
-        sh ~/ghc-ios/util/ghc/checkout.sh
+        sh ~/ghc-ios-util/ghc/checkout.sh
 
   4. Compile GHC:
 
-        sh ~/ghc-ios/util/ghc/compile.sh
+        sh ~/ghc-ios-util/ghc/compile.sh
 
   5. Install:
 
