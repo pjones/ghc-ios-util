@@ -1,7 +1,7 @@
 # Utilities and Scripts for Haskell iOS Development
 
 GHC build scripts based on the ghc-ios [wiki][ghc-ios] and
-[ghc-ios-simple-setup][].
+[ghc-ios-simple-setup][simple].
 
 ## Building GHC (iOS) Cross Compiler With These Scripts
 
